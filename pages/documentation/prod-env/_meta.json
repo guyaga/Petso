@@ -1,0 +1,10 @@
+{
+  "getting-started": "Getting Started",
+  "env-var": "Environment Variables",
+  "astria": "Astria",
+  "resend": "Resend",
+  "payment-gateway": "Payment Gateways",
+  "database": "Database",
+  "deploy": "Deployment",
+  "customize": "Customization"
+}
